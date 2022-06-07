@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cl.uchile.dcc.citricliquid.model.board.HomepanelTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-06-07T19:01:15" hostname="LAPTOP-3BHKT9FC" time="0.007">
+  <properties/>
+  <testcase name="constructorTest()" classname="cl.uchile.dcc.citricliquid.model.board.HomepanelTest" time="0.001"/>
+  <testcase name="getOwnerTest()" classname="cl.uchile.dcc.citricliquid.model.board.HomepanelTest" time="0.001"/>
+  <testcase name="stopMovementTest()" classname="cl.uchile.dcc.citricliquid.model.board.HomepanelTest" time="0.001"/>
+  <testcase name="applyHealToTest()" classname="cl.uchile.dcc.citricliquid.model.board.HomepanelTest" time="0.001"/>
+  <testcase name="testEquals()" classname="cl.uchile.dcc.citricliquid.model.board.HomepanelTest" time="0.001"/>
+  <testcase name="checkNormaTest()" classname="cl.uchile.dcc.citricliquid.model.board.HomepanelTest" time="0.0"/>
+  <system-out><![CDATA[Player has stopped on their Home panel!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
