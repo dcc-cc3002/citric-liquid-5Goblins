@@ -32,7 +32,7 @@ using by the controller later on.
 The conditions for each objective have been coded into the player class, with normacheck being a boolean that returns true when conditions are met for each level.
 
 Combat has not been implemented yet, therefore methods such as defend and dodge have not been coded. a Icanbattle interface might be added later on so units can implement combat methods.
-	
+Decks and cards will also be implemented in the future along with more methods related to them.	
 PANELS:
 
 All panels have been divided into different subclasses, each representing a type of panel, since they all have unique methods.
@@ -50,10 +50,6 @@ Abstractpanel was created to be a template for all panels, it implements the Ipa
 		NeutralPanel
 
 
-	
-Tests have been implemented to check any new methods and to cover all current classes and their methods.
-
-Most methods related to cards and battles, such as card use, defend, and dodge methods have not been implemented, ad decks and battles are not yet coded,
-and some of them require a game controller.
-
 There is no method to check who activated the panel, the controller will apply the effects to the corresponding player when they land on it.
+
+Tests have been implemented to check any new methods and to cover all current classes and their methods.
