@@ -7,6 +7,8 @@ The project consists in creating a (simplified) clone of the game **100% Orange 
 developed by [Orange_Juice](http://daidai.moo.jp) and distributed by 
 [Fruitbat Factory](https://fruitbatfactory.com).
 
+Author: Andres Basaez
+
 UNITS:
 
 	AbstractUnit: Abstract class with Variables and methods used by all units
