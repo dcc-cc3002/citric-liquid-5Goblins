@@ -33,6 +33,7 @@ The conditions for each objective have been coded into the player class, with no
 
 Combat has not been implemented yet, therefore methods such as defend and dodge have not been coded. a Icanbattle interface might be added later on so units can implement combat methods.
 Decks and cards will also be implemented in the future along with more methods related to them.	
+
 PANELS:
 
 All panels have been divided into different subclasses, each representing a type of panel, since they all have unique methods.
